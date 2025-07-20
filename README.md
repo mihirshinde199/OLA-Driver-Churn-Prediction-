@@ -74,14 +74,10 @@ jupyter notebook OLA_Driver_Churn_Prediction.ipynb
 pip install -r requirements.txt
 
 
-## 📄 Report
-
-You can find the detailed report [here](<Google_Drive_or_PDF_Link>).
-
 ## 👨‍💻 Author
 
 **Mihir Shinde**  
-📧 [Your Email]  
+📧 mihir.shinde18@vit.edu
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourusername)  
 🐙 [GitHub](https://github.com/mihirshinde199)
 
