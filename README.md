@@ -65,7 +65,7 @@ The entire workflow follows a robust data science pipeline:
 ## 📝 How to Run
 
 1. Clone the repository:
-git clone https://github.com/mihirshinde199/OLA-Driver-Churn-Prediction.git
+git clone https://github.com/mihirshinde199/OLA-Driver-Churn-Prediction 
 
 2. Navigate to the directory and open the Jupyter notebook:2. Navigate to the directory and open the Jupyter notebook:
 jupyter notebook OLA_Driver_Churn_Prediction.ipynb
