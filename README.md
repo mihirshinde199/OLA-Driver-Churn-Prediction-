@@ -1,5 +1,3 @@
-# OLA-Driver-Churn-Prediction-
-
 # 🚗 OLA Driver Churn Prediction
 
 This project tackles a real-world business problem faced by Ola Cabs — **high driver attrition**. The objective is to build a machine learning model to predict whether a driver is likely to leave the platform, helping Ola improve retention strategies and reduce hiring costs.
